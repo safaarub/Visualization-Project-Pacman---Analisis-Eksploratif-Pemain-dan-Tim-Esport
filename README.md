@@ -1,4 +1,4 @@
-# Visualization Project Pacman - Analisis Eksploratif Pemain dan Tim Esport :  Distribusi Negara, Pendapatan Tertinggi, Genre Game, dan Partisipasi Turnamen"
+# Visualization Project Pacman - Analisis Eksploratif Pemain dan Tim Esport :  Distribusi Negara, Pendapatan Tertinggi, Genre Game, dan Partisipasi Turnamen
 
 ## **Background Problems**
 Industri esports telah menjadi salah satu industri yang paling berkembang pesat dalam beberapa tahun terakhir. 
