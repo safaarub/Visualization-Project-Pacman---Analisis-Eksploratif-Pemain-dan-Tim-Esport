@@ -53,6 +53,7 @@ Ini adalah dataset yang berisi informasi tentang tim esports, Kolom-kolom dalam 
   - Identifikasi Missing Value
   - Identifikasi Outlier
   - Handling Outlier
+  - Identifikasi Inkonsistensi
 * Menyimpan data yang sudah di cleansing
 * Membuat visualisasi data menggunakan aplikasi `tableau`
 * Membuat Dashboard
