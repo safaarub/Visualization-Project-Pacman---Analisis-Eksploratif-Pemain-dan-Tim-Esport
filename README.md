@@ -68,8 +68,8 @@ Ini adalah dataset yang berisi informasi tentang tim esports, Kolom-kolom dalam 
 ## **Link**
 * Link Dataset : https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game/data?select=highest_earning_teams.csv
 * Link Tableau : https://public.tableau.com/shared/638H6RQMZ?:display_count=n&:origin=viz_share_link
-* Link Medium :
-* Link Video :
+* Link Medium : https://medium.com/@safaarub24/analisis-eksploratif-pemain-dan-tim-esport-distribusi-negara-pendapatan-tertinggi-genre-game-841c24bfa065
+* Link Video : https://youtu.be/DE_k5nlbHwQ
 * Link Linkedin : https://www.linkedin.com/in/reza-saputra-67a067301/ , https://www.linkedin.com/in/safa-arub-nadia-nd24
 
 
