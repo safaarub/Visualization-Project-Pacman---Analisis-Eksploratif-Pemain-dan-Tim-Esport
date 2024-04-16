@@ -1,27 +1,40 @@
-# Visualization Project Pacman - Analisis Eksploratif Pemain dan Tim Esport :  Distribusi Negara, Pendapatan Tertinggi, Genre Game, dan Partisipasi Turnamen
+# Analisis Pemetaan Pemain dan Tim Esport Berdasarkan Pendapatan dan Partisipasi
 
 ## **Background Problems**
-Industri esports telah menjadi salah satu industri yang paling berkembang pesat dalam beberapa tahun terakhir. 
-Dalam ekosistem ini, pemain dari berbagai negara berkompetisi dalam turnamen dan kompetisi global, sementara tim esports juga memainkan peran penting dalam dinamika industri ini. 
-Untuk memahami lebih dalam tentang dinamika di balik industri ini, penting untuk menganalisis data pemain esports dan tim esports dengan lebih rinci. 
-Analisis data pemain esports meliputi pemahaman tentang distribusi pemain berdasarkan negara asal, pemain dengan pendapatan tertinggi, dan genre game yang paling banyak dimainkan oleh mereka. 
-Di sisi lain, analisis tim esports memerlukan pemahaman tentang partisipasi mereka dalam berbagai game, pendapatan tertinggi yang diperoleh oleh beberapa tim, dan jumlah turnamen yang diikuti oleh mereka.
+Industri esports telah mengalami pertumbuhan yang pesat dalam beberapa tahun terakhir. Dalam ekosistem ini, pemain dari berbagai negara bersaing dalam turnamen global, sementara tim esports juga memainkan peran penting. Untuk memahami lebih dalam dinamika industri ini, analisis data pemain dan tim esports perlu dilakukan. Ini mencakup distribusi pemain berdasarkan negara, pemain dengan pendapatan tertinggi, genre game yang paling banyak dimainkan, partisipasi tim dalam turnamen, dan pendapatan tertinggi serta jumlah turnamen yang diikuti oleh tim.
+
 
 ## **Objectives**
 - Objective Data Player
-1. Mengetahui distribusi pemain esports dari beberapa negara yang berpartisipasi dalam industri ini.
-2. Menganalisis beberapa pemain yang memiliki pendapatan tertinggi dalam industri esports.
+1. Menganalisis distribusi geografis pemain esports dari berbagai negara.
+   - Mengapa penting untuk memahami asal negara pemain esports?
+   - Mengapa beberapa negara mungkin memiliki lebih banyak pemain daripada yang lain?
+   - Mengapa distribusi geografis dapat memengaruhi strategi pemasaran dan pengembangan game?
+2. Mengidentifikasi pemain dengan pendapatan tertinggi.
+   - Mengapa penting untuk mengetahui pemain dengan pendapatan tertinggi?
+   - Mengapa beberapa pemain dapat menghasilkan pendapatan lebih tinggi daripada yang lain?
+   - Mengapa pemahaman tentang pendapatan pemain dapat memberikan wawasan tentang potensi pasar esports?
 3. Mengidentifikasi genre game yang paling sering dimainkan oleh para pemain esports.
+   - Mengapa perlu mengetahui genre game yang paling populer di kalangan pemain esports?
+   - Mengapa beberapa genre mungkin lebih diminati daripada yang lain di komunitas esports?
+   - Mengapa pengetahuan tentang genre game dapat memengaruhi keputusan pengembangan game di masa depan?
 
 - Objective Data Team
-1. Mengetahui distribusi game dalam kegiatan turnamen pada industri esports.
-2. Menganalisis beberapa tim dengan pendapatan tertinggi dalam industri esports.
-3. Melihat perbandingan jumlah turnamen yang diikuti oleh beberapa tim esports.
+1. Mempelajari distribusi game dalam turnamen esports.
+   - Mengapa penting untuk memahami game apa yang paling sering diikuti dalam turnamen esports?
+   - Mengapa beberapa game lebih dominan dalam industri esports daripada yang lain?
+   - Mengapa pengetahuan tentang distribusi game dapat membantu dalam strategi pemasaran turnamen?
+2. Menganalisis tim dengan pendapatan tertinggi.
+   - Mengapa perlu untuk mengetahui tim dengan pendapatan tertinggi dalam industri esports?
+   - Mengapa beberapa tim mungkin lebih sukses secara finansial daripada yang lain?
+   - Mengapa pemahaman tentang pendapatan tim dapat memberikan wawasan tentang model bisnis yang berhasil dalam esports?
+3. Melihat perbandingan jumlah turnamen yang diikuti oleh tim esports.
+   - Mengapa penting untuk membandingkan jumlah turnamen yang diikuti oleh tim esports?
+   - Mengapa beberapa tim mungkin lebih aktif dalam mengikuti turnamen daripada yang lain?
+   - Mengapa pengetahuan tentang partisipasi tim dalam turnamen dapat membantu dalam pemetaan kegiatan industri esports?
 
 ## **Goals**
-Tujuan dari proyek ini adalah untuk memahami distribusi geografis pemain esports dari berbagai negara, menganalisis pemain dengan pendapatan tertinggi, serta mengidentifikasi genre game yang paling sering dimainkan. 
-Dari sisi data tim, kita ingin memahami distribusi game yang diikuti oleh tim esports, menganalisis tim dengan pendapatan tertinggi, dan melihat perbandingan jumlah turnamen yang diikuti oleh tim.
-Dengan mencapai tujuan-tujuan ini, kita dapat memperoleh insight yang lebih mendalam tentang dinamika industri esports.
+Tujuan proyek ini adalah untuk mendapatkan pemahaman yang lebih baik tentang distribusi pemain dan tim esports, pendapatan tertinggi, serta preferensi game. Dengan demikian, kita dapat mengidentifikasi peluang dan tren di industri ini.
 
 ## **Data Set**
 ### Dataset 1 : highest_earning_players.csv
