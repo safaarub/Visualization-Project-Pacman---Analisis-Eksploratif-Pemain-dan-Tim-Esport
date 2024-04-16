@@ -19,7 +19,7 @@ Industri esports telah mengalami pertumbuhan yang pesat dalam beberapa tahun ter
 2. Menganalisis tim dengan pendapatan tertinggi.
    - Mengapa perlu untuk mengetahui tim dengan pendapatan tertinggi dalam industri esports?
 3. Melihat perbandingan jumlah turnamen yang diikuti oleh tim esports.
-   - Membandingkan jumlah turnamen yang diikuti oleh tim esports?
+   - Membandingkan jumlah turnamen yang diikuti oleh tim esports
 
 ## **Goals**
 Tujuan proyek ini adalah untuk mendapatkan pemahaman yang lebih baik tentang distribusi pemain dan tim esports, pendapatan tertinggi, serta preferensi game. Dengan demikian, kita dapat mengidentifikasi peluang dan tren di industri ini.
