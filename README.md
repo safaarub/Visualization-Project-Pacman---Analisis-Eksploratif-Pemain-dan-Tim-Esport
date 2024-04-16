@@ -8,30 +8,18 @@ Industri esports telah mengalami pertumbuhan yang pesat dalam beberapa tahun ter
 - Objective Data Player
 1. Menganalisis distribusi geografis pemain esports dari berbagai negara.
    - Mengapa penting untuk memahami asal negara pemain esports?
-   - Mengapa beberapa negara mungkin memiliki lebih banyak pemain daripada yang lain?
-   - Mengapa distribusi geografis dapat memengaruhi strategi pemasaran dan pengembangan game?
 2. Mengidentifikasi pemain dengan pendapatan tertinggi.
    - Mengapa penting untuk mengetahui pemain dengan pendapatan tertinggi?
-   - Mengapa beberapa pemain dapat menghasilkan pendapatan lebih tinggi daripada yang lain?
-   - Mengapa pemahaman tentang pendapatan pemain dapat memberikan wawasan tentang potensi pasar esports?
 3. Mengidentifikasi genre game yang paling sering dimainkan oleh para pemain esports.
    - Mengapa perlu mengetahui genre game yang paling populer di kalangan pemain esports?
-   - Mengapa beberapa genre mungkin lebih diminati daripada yang lain di komunitas esports?
-   - Mengapa pengetahuan tentang genre game dapat memengaruhi keputusan pengembangan game di masa depan?
 
 - Objective Data Team
 1. Mempelajari distribusi game dalam turnamen esports.
    - Mengapa penting untuk memahami game apa yang paling sering diikuti dalam turnamen esports?
-   - Mengapa beberapa game lebih dominan dalam industri esports daripada yang lain?
-   - Mengapa pengetahuan tentang distribusi game dapat membantu dalam strategi pemasaran turnamen?
 2. Menganalisis tim dengan pendapatan tertinggi.
    - Mengapa perlu untuk mengetahui tim dengan pendapatan tertinggi dalam industri esports?
-   - Mengapa beberapa tim mungkin lebih sukses secara finansial daripada yang lain?
-   - Mengapa pemahaman tentang pendapatan tim dapat memberikan wawasan tentang model bisnis yang berhasil dalam esports?
 3. Melihat perbandingan jumlah turnamen yang diikuti oleh tim esports.
    - Mengapa penting untuk membandingkan jumlah turnamen yang diikuti oleh tim esports?
-   - Mengapa beberapa tim mungkin lebih aktif dalam mengikuti turnamen daripada yang lain?
-   - Mengapa pengetahuan tentang partisipasi tim dalam turnamen dapat membantu dalam pemetaan kegiatan industri esports?
 
 ## **Goals**
 Tujuan proyek ini adalah untuk mendapatkan pemahaman yang lebih baik tentang distribusi pemain dan tim esports, pendapatan tertinggi, serta preferensi game. Dengan demikian, kita dapat mengidentifikasi peluang dan tren di industri ini.
