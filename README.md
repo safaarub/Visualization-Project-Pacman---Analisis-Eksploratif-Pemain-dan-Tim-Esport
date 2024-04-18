@@ -6,12 +6,10 @@ Industri esports telah mengalami pertumbuhan yang pesat dalam beberapa tahun ter
 
 ## **Objectives**
 - Objective Data Player
-1. Menganalisis distribusi geografis pemain esports dari berbagai negara.
-   - Mengapa penting untuk memahami asal negara pemain esports?
-2. Mengidentifikasi pemain dengan pendapatan tertinggi.
-   - Mengapa penting untuk mengetahui pemain dengan pendapatan tertinggi?
-3. Mengidentifikasi genre game yang paling sering dimainkan oleh para pemain esports.
-   - Mengapa perlu mengetahui genre game yang paling populer di kalangan pemain esports?
+1. Mengidentifikasi negara dengan jumlah pemain esport terbanyak
+2. Mengidentifikasi bagaimana rata - rata pendapatan pemain berdasarkan game esports
+3. Mengidentifikasi genre dari game yang paling sering dimainkan oleh para pemain esports.
+4. Mengidentifikasi pemain dengan pendapatan tertinggi.
 
 - Objective Data Team
 1. Mempelajari distribusi game dalam turnamen esports.
@@ -22,7 +20,7 @@ Industri esports telah mengalami pertumbuhan yang pesat dalam beberapa tahun ter
    - Membandingkan jumlah turnamen yang diikuti oleh tim esports
 
 ## **Goals**
-Tujuan proyek ini adalah untuk mendapatkan pemahaman yang lebih baik tentang distribusi pemain dan tim esports, pendapatan tertinggi, serta preferensi game. Dengan demikian, kita dapat mengidentifikasi peluang dan tren di industri ini.
+Tujuan proyek ini adalah untuk mendapatkan pemahaman yang lebih baik tentang distribusi pemain dan tim esports, pendapatan tertinggi, serta preferensi game. Dengan demikian, kita dapat mengidentifikasi peluang dan tren di industri ini untuk meningkatkan pendapatan serta membantu dalam mendapatkan pemain yang tepat.
 
 ## **Data Set**
 ### Dataset 1 : highest_earning_players.csv
@@ -68,7 +66,7 @@ Ini adalah dataset yang berisi informasi tentang tim esports, Kolom-kolom dalam 
   
 ## **Link**
 * Dataset : https://www.kaggle.com/datasets/jackdaoud/esports-earnings-for-players-teams-by-game/data?select=highest_earning_teams.csv
-* Tableau : https://public.tableau.com/shared/638H6RQMZ?:display_count=n&:origin=viz_share_link
+* Tableau : https://public.tableau.com/app/profile/safaarub.nd/viz/FinalProjectAnalisisPlayerEsport/DashboardPlayerEsport
 * Medium : https://medium.com/@safaarub24/analisis-eksploratif-pemain-dan-tim-esport-distribusi-negara-pendapatan-tertinggi-genre-game-841c24bfa065
 * Video : https://youtu.be/DE_k5nlbHwQ
 * Linkedin : https://www.linkedin.com/in/reza-saputra-67a067301/ , https://www.linkedin.com/in/safa-arub-nadia-nd24
